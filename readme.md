@@ -6,7 +6,7 @@
 ## Install
 
 ```
-$ npm install --save comic-cast
+$ npm install --global comic-cast
 ```
 
 
