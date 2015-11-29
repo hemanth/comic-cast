@@ -1,6 +1,6 @@
 {
   "name": "comic-cast",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "My awe-inspiring module",
   "license": "MIT",
   "repository": "hemanth/comic-cast",
@@ -8,6 +8,9 @@
     "name": "Hemanth.HM",
     "email": "hemanth.hm@gmail.com",
     "url": "h3manth.com"
+  },
+   "bin": {
+    "comic-cast": "cli.js"
   },
   "engines": {
     "node": ">=0.10.0"
@@ -19,7 +22,9 @@
     "index.js"
   ],
   "keywords": [
-    ""
+    "comic",
+    "chromecast",
+    "xkcd"
   ],
   "dependencies": {
     "chromecast-player": "^0.2.3",
