@@ -1,6 +1,6 @@
 {
   "name": "comic-cast",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cast comic to your chromecast.",
   "license": "MIT",
   "repository": "hemanth/comic-cast",
@@ -9,7 +9,7 @@
     "email": "hemanth.hm@gmail.com",
     "url": "h3manth.com"
   },
-   "bin": {
+  "bin": {
     "comic-cast": "cli.js"
   },
   "engines": {
