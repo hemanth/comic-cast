@@ -1,6 +1,6 @@
 {
   "name": "comic-cast",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Cast comic to your chromecast.",
   "license": "MIT",
   "repository": "hemanth/comic-cast",
