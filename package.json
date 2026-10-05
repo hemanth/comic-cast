@@ -1,6 +1,6 @@
 {
   "name": "comic-cast",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Cast comic to your chromecast.",
   "license": "MIT",
   "repository": "hemanth/comic-cast",
@@ -16,7 +16,7 @@
     "node": ">=0.10.0"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "mocha --exit test.js"
   },
   "files": [
     "index.js"
@@ -28,9 +28,9 @@
   ],
   "dependencies": {
     "chromecast-player": "^0.2.3",
-    "xkcd-imgs": "^1.0.0"
+    "xkcd-imgs": "^1.0.1"
   },
   "devDependencies": {
-    "mocha": "*"
+    "mocha": "^11.7.0"
   }
 }
